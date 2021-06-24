@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![App Brewery Banner](Documentation/fb_cover_pic.jpg)
 
 # Calculator Layout Boss Challenge
 
@@ -23,5 +23,5 @@ If you get stuck, check out the solution video in the next lesson.
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
+![End Banner](Documentation/logo.png)
 
