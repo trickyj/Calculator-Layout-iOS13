@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/fb_cover_pic.jpg)
+<a href="www.ampli5.me"><img src="./Documentation/github_banner.png" height="100" width="250"></a>
 
 # Calculator Layout Boss Challenge
 
