@@ -1,4 +1,4 @@
-<a href="www.ampli5.me"><img src="./Documentation/github_banner.png" height="250" width="800"></a>
+<a href="www.ampli5.me"><img src="./Documentation/github_banner.png" height="300" width="800"></a>
 
 # Calculator Layout Boss Challenge
 
