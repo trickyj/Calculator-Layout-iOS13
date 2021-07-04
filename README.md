@@ -2,13 +2,14 @@
 
 # Calculator Layout Boss Challenge
 
-No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI. 
+No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI.
 
 ## Portrait
 
 ![Portrait](Documentation/Portrait.png)
 
 ## Landscape
+
 ![Landscape](Documentation/Landscape.png)
 
 This is a difficult challenge. You pass the challenge if you can create the vertical and horizontal stacks required for the layout. Once you've done that, you can also get extra credit if you figure out how to layout the small details.
@@ -19,9 +20,8 @@ Silver Medal: If you can figure out how to indent the Label with the 0 so that t
 
 Gold Medal: If you can figure out how to make the 0 button take up twice as much width as the "." and "=" buttons.
 
-If you get stuck, check out the solution video in the next lesson.
+Blog ScrollUnlock :point_right: https://scrollunlock.wordpress.com
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+by Ampli5 :point_right: http://ampli5.me
 
 ![End Banner](Documentation/logo.png)
-
